@@ -4,9 +4,8 @@
 Hushnet-All is a project designed to [briefly describe what it does]. It aims to provide [mention the core functionality or purpose].
 
 ## Features
-- Feature 1: [Describe the feature]
-- Feature 2: [Describe the feature]
-- Feature 3: [Describe the feature]
+User chat with another without knowing echother and this app secure and safe
+
 
 ## Installation
 To install and run this project locally, follow these steps:
@@ -28,9 +27,6 @@ npm start  # or python main.py
 ## Usage
 Explain how to use the project with examples or screenshots.
 
-## Live Demo
-If the project is hosted online, provide the link:
-[Live Demo](https://your-live-demo-link.com)
 
 ## Contributing
 Contributions are welcome! To contribute:
@@ -44,5 +40,5 @@ Contributions are welcome! To contribute:
 This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-- **Your Name** - [Your GitHub Profile](https://github.com/yourusername)
+- **Your Name** - himanshukhichar12
 - # Hushnet-Landing-
